@@ -1,0 +1,12 @@
+.Conta {
+  text-align: center;
+  background-color: rgb(174, 0, 255);
+  margin-top: 30px;
+}
+.btn{
+  text-align: center;
+  background-color: chocolate;
+  border-radius: 5px;
+  width: 80px;
+  height: 28px;
+}
